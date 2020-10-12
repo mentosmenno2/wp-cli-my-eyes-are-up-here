@@ -1,0 +1,12 @@
+{
+    "name": "mentosmenno2/wp-cli-my-eyes-are-up-here",
+    "description": "Makes My Eyes Are Up Here plugin compatible with WP-CLI",
+    "type": "wordpress-muplugin",
+    "authors": [
+        {
+            "name": "mentosmenno2",
+            "email": "mentosmenno2@hotmail.com"
+        }
+    ],
+    "require": {}
+}
