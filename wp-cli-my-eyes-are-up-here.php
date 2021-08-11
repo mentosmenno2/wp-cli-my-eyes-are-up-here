@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:  WP-CLI: My Eyes Are Up Here
- * Version:      1.0.0
+ * Version:      1.0.1
  * Plugin URI:   mentosmenno2/wp-cli-my-eyes-are-up-here
  * Description:  Makes My Eyes Are Up Here plugin compatible with WP-CLI
  * Author:       Mentosmenno2
